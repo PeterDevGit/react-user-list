@@ -1,0 +1,18 @@
+label {
+    margin: 15px 0 0 0;
+    display: block;
+    font-style: italic;
+}
+
+input{
+    padding: 0 10px;
+    width: 100%;
+}
+
+.error, .error-message{
+    color: red;
+}
+
+.error{
+    border: 2px solid red;
+}

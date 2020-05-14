@@ -1,0 +1,21 @@
+.success-span{
+    color:green;
+    font-size: 20px;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.title-form{
+    font-size: 20px;
+    color: #2780E3;
+    text-align: center;
+}
+
+.title-form.delete{
+    color: red;
+}
+
+.btn-list{
+    display: flex;
+    align-items: center;
+}

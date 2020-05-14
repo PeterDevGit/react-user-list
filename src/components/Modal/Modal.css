@@ -1,0 +1,63 @@
+.user-add-edit-form{
+        width: 100%;
+        display: block;
+        margin: 0 auto;
+        max-width: 300px;
+    }
+
+.user-add-edit-form span{
+        display: block;
+        width: 100%;
+    }
+
+.user-add-edit-form button{
+        margin: 20px auto 0 auto;
+    }
+
+.btn{
+        display: block;
+    }
+
+.react-datepicker-wrapper{
+        width: 100%;
+    }
+
+.add-edit-popup{
+        position: absolute;
+        top:50%;
+        left: 50%;
+        width: 100%;
+        height: auto;
+        padding: 20px;
+        z-index: 2;
+        background: #fff;
+        max-width: 450px;
+        max-height: 550px;
+        border-radius: 25px;
+        border: 1px solid #c3c3c3;
+        transform: translate(-50%, -50%);
+        -webkit-box-shadow: 10px 10px 70px -24px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 70px -24px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 70px -24px rgba(0,0,0,0.75);
+    }
+
+.bg-full-popup{
+        top:0;
+        left: 0;
+        right:0;
+        bottom: 0;
+        z-index: 1;
+        cursor: pointer;
+        position: fixed;
+        background: rgba(0, 0, 0, .7);
+    }
+
+
+.close-pop-up{
+        position: absolute;
+        top: 5px;
+        right: 12px;
+        font-size: 22px;
+        cursor: pointer;
+        display: block;
+    }

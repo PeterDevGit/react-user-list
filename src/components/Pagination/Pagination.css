@@ -1,0 +1,12 @@
+.btn-group{
+    display: flex;
+    margin: 50px auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.pagination-block{
+    width: 100%;
+    display: flex;
+}

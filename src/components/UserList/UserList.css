@@ -1,0 +1,19 @@
+.all-page-wrapper{
+    height: 100vh;
+}
+
+.main-content{
+    margin: 15px;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+
+.main-content table {margin: 50px 0;}
+
+.button-add-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
